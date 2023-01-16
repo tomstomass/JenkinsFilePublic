@@ -1,5 +1,3 @@
-$name = Toms
-$surname = Freimanis
 pipeline {
     agent any
 
